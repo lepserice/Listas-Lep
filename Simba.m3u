@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1, America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-2, A 24
+https://g4.proy-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+#EXTINF:-3, Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-7, TV Publica
+
+#EXTINF:-13, El Trece
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+#EXTINF:-17, Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-18, Deport TV
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
+
+#EXTINF:-20, TUDN
+https://afy4c.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=50dde9ef366a4faa14da05f43a5b478ee70df384-11-1778894827-1778840827
+
+#EXTINF:-21, TyC Sports
+https://mze7u.envivoslatam.org/tycsports/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=119d0d4113a3f9b1b30108c5b35fba4e25101c8c-37-1778894805-1778840805
+
+#EXTINF:-23, Espn Premiun
+https://yce5o.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=d346df7f8c2562129a1644e99dc42f9307d14bbf-4f-1778894819-1778840819
+
+#EXTINF:-24, TNT Sports
+https://dtkb.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=a57970ebe38060125b8b28f40b76c50b688d6392-35-1778894811-1778840811
+
+#EXTINF:-25, DirecTV Sports
+https://afy4c.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=dc2a5604f6e9f2a7748d11459a44f13b900dcd22-ea-1778896091-1778842091
+
+#EXTINF:-26, Fox Sports
+https://mze7u.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=8ea4fdd8ee884ff105b9b31f5469dfba92c907d8-fd-1778894821-1778840821
+
+#EXTINF:-27, Espn
+https://ng0pr.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=745c4162794effaf954f9f99728260997b066417-15-1778895975-1778841975
+
+#EXTINF:-28, Win
+https://lcrj3.envivoslatam.org/winplus/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=e41dd4a0d649b654d4ec1f7123f620b4b2d4103a-d7-1778896134-1778842134
+
+#EXTINF:-100, FIFA +1
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-101, FIFA +2
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-103, FIFA +3
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-104, FIFA +4
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-105, FIFA +5
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-106, FIFA +6 Portugues
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-107, FIFA +7 Español
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-108, FIFA +8
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-109, FIFA +9
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
