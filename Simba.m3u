@@ -2,47 +2,29 @@
 
 #EXTINF:-1, America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
 #EXTINF:-2, A 24
 https://g4.proy-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
-
 #EXTINF:-3, Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
-#EXTINF:-7, TV Publica
-
 #EXTINF:-13, El Trece
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
 #EXTINF:-17, Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-
 #EXTINF:-18, Deport TV
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
-
-#EXTINF:-20, 
-
 #EXTINF:-21, TyC Sports
 https://vg7ie.envivoslatam.org/tycsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=2d0b6cf09ddbb84749c2183c11495d810b962853-ab-1780012841-1779958841
-
 #EXTINF:-23, Espn Premiun
 https://ub2dr.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=01479719a4c2cf89a905fbcd9dd04a45803d336d-01-1780012845-1779958845
-
 #EXTINF:-24, TNT Sports
 https://kh5vy.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=c22777685dac1eedd1ae2d04156e2df84d52f517-e5-1780012847-1779958847
-
 #EXTINF:-25, DirecTV Sports
 https://ub2dr.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=209fa694b5576032ca07477c46eff3643a991fa1-c4-1780012853-1779958853
-
 #EXTINF:-26, Fox Sports
 https://afy4c.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=ee88d34b674c2d4e53ee85f492f5f7380fdfc2f1-15-1780012866-1779958866
-
 #EXTINF:-27, Espn
 https://ng0pr.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=745c4162794effaf954f9f99728260997b066417-15-1778895975-1778841975
-
 #EXTINF:-28, Win
 https://lcrj3.envivoslatam.org/winplus/tracks-v1a1/mono.m3u8?ip=181.2.100.162&token=e41dd4a0d649b654d4ec1f7123f620b4b2d4103a-d7-1778896134-1778842134
-
 #EXTINF:-100, FIFA +1 Ingles
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-101, FIFA +2
