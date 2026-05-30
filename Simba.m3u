@@ -2,6 +2,8 @@
 
 #EXTINF:-1 group-title="TV Local", America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 group-title="TV Local", Net Tv
+https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV Local", El Trece
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Noticias", A 24
