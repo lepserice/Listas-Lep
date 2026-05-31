@@ -10,18 +10,20 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 https://g4.proy-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 group-title="Noticias", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 group-title="Deportes", TUDN
+https://ng0pr.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=8aab5561969c7b3af3963939be0c05b41384ac0a-3b-1780286602-1780232602
 #EXTINF:-1 group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Deportes", TyC Sports
-https://yce5o.envivoslatam.org/tycsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=1bb35418a40cd4e5ceb65f614fb51444bd889f42-0e-1780145469-1780091469
+https://onrf.envivoslatam.org/tycsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=d421fade846cc9dc9e52d22a11d771a46537abef-9e-1780286498-1780232498
 #EXTINF:-1 group-title="Deportes", TyC Sports HD
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", Espn Premiun
-https://tk0hz.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=6ee8a933475a928c5f3e506f2f5df31c5e33e560-77-1780145459-1780091459
+https://smjt9q.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=64fbca1ed20fca1057bffad127e640b6989ebfd0-de-1780286488-1780232488
 #EXTINF:-1 group-title="Deportes", TNT Sports
-https://lcrj3.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=b14965336985c94a5a3d2d4028f355df6c77d195-8d-1780145461-1780091461
+https://fsqy.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=6bf454b7de02a8108e0606c1a0c64fc8178e92be-f4-1780286491-1780232491
 #EXTINF:-1 group-title="Deportes", DirecTV Sports
-https://ub2dr.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=209fa694b5576032ca07477c46eff3643a991fa1-c4-1780012853-1779958853
+https://iaw5b.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=b89956b88c0aa86c7a17ecceb04ce7900d96e837-49-1780286605-1780232605
 #EXTINF:-1 group-title="Deportes", Fox Sports
 https://afy4c.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=ee88d34b674c2d4e53ee85f492f5f7380fdfc2f1-15-1780012866-1779958866
 #EXTINF:-1 group-title="Deportes", Espn
