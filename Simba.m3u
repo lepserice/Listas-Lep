@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV Local", America
+#EXTINF:-1 group-title="Aire", America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-2 group-title="TV Local", Net Tv
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-3 group-title="TV Local", El Trece
+#EXTINF:-3 group-title="Aire", El Trece
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-4 group-title="TV Local", Canal 20 Villa Maria
-https://usher.ttvnw.net/api/channel/hls/canalveintevillamaria.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMTdiMWMzNjgtMGJmNS00NTVjLTk3OTgtZjkzN2I4YzM4YTYzIiwiQ2xpZW50QXBwIjoidHdpbGlnaHQiLCJVUkwiOiJodHRwczovL3BsYXllci50d2l0Y2gudHYvIn0%3D&allow_source=true&browser_family=chrome&browser_version=148.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&lang=es&os_name=Windows&os_version=NT%2010.0&p=1221432&parent_domains=twitchplayer&platform=web&play_session_id=c04b2e769b294b75ae58767c1d39488f&player_backend=mediaplayer&player_version=1.53.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=5088c79c52a101d88a8de0da9fcbaf277e2732a3&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canalveintevillamaria%22%2C%22channel_id%22%3A416154138%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22d585b70adc40d7b0%22%2C%22expires%22%3A1780271414%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A789665537%2C%22user_ip%22%3A%22181.10.70.202%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22ULTRA_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
 #EXTINF:-5 group-title="TV Local", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-5 group-title="TV Local", Argentinisima Satelital
@@ -22,7 +20,7 @@ https://ng0pr.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.87.114.92&t
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Deportes", TyC Sports
 https://iaw5b.envivoslatam.org/hotflix/tycsports/index.m3u8?token=efed0e7e405ce6d2d426bc2276b32e8ef3d63fc3-2e-1780315583-1780261583&ip=181.10.70.202
-#EXTINF:-1 group-title="Deportes", TyC Sports HD
+#EXTINF:-1 group-title="Deportes", TyC Sports Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", Espn Premiun
 https://rci1w.envivoslatam.org/hotflix/espnpremium/index.m3u8?token=aa381dd04358af4923cd9c6585e643e96d44aa60-2c-1780315607-1780261607&ip=181.10.70.202
