@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1, America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1, Net Tv
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1, TeleMax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1, El Trece
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1, Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1, Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1, A 24
+https://g4.proy-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:-1, TN
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1, Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1, TUDN
+https://ng0pr.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=8aab5561969c7b3af3963939be0c05b41384ac0a-3b-1780286602-1780232602
+#EXTINF:-1, Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
