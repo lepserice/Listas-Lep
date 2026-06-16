@@ -22,7 +22,7 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png", C5N
 https://full-online.xyz/proxy/ssl/?url=http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/c5n_720.m3u8
 
-#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras y Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" , Telemax
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras y Radios" tvg-logo="" , Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Otros/Extras y Radios" tvg-logo="https://files.catbox.moe/lk049e.png" , Argentinisima Satelital 
@@ -65,7 +65,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 # Deporte
 
-#EXTINF:-1 tvg-id="" tvg-name="Deportes" group-title="" tvg-logo="Deportes", DSports
+#EXTINF:-1 tvg-id="0938" tvg-name="DSports" group-title="Deportes" tvg-logo="", DSports
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
 
