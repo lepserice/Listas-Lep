@@ -65,7 +65,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 # Deporte
 
-#EXTINF:-1 tvg-id="0937" tvg-name="Deportes" group-title="" tvg-logo="Deportes", DSports
+#EXTINF:-1 tvg-id="" tvg-name="Deportes" group-title="" tvg-logo="Deportes", DSports
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
 
