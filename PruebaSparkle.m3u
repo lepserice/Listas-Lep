@@ -11,10 +11,7 @@ https://nameless-resonance-f644.javimarki.workers.dev/12
 #EXTINF:-1, Telefe
 https://full-online.xyz/proxy/ssl/?url=http://45.225.40.206:12080/Live/4107b24939e8872f74a7a57a545d71ee/telefe.playlist.m3u8
 #EXTINF:-1 , El Trece
-#EXTVLCOPT:http-referrer=https://vodgc.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1, Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1, Argentinisima Satelital
