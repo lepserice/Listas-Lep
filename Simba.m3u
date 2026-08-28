@@ -18,12 +18,12 @@ https://g4.proy-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1, Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1, TUDN
-https://ng0pr.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.87.114.92&token=8aab5561969c7b3af3963939be0c05b41384ac0a-3b-1780286602-1780232602
+#EXTINF:-1, Tnt
+https://6.01-f.com/tntsports/mono.m3u8?token=d0c944969e464a1f92d48554dcadbae1c02127c9-a1-1787961951-1787943951
 #EXTINF:-1, Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1, TyC Sports Fan
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, Espn 
+https://6.01-f.com/espnpremium/mono.m3u8?token=ae227150cbec6d324c384d91fcefaa892dc4538a-e4-1787961799-1787943799
 #EXTINF:-1, FIFA +
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1, FIFA + French
