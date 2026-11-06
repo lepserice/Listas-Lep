@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1, Espn
+https://9.ftlly.com/espnpremium/mono.m3u8?token=c4aa1f7c441761f012aa9d8b322ae370f8753e9b-20-1794013046-1793995046
+#EXTINF:-1, TNT 
+https://11.ftlly.com/tntsports/mono.m3u8?token=5d4be1654c66629beb683dfe7ccd823575bd4b34-24-1794012700-1793994700
